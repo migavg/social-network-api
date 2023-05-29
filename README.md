@@ -21,7 +21,7 @@ N/A
 
 ## Credits
 
-N/A
+Resources used in this challenge were edX example through multiple activites and mini project.
 
 
 ## License
