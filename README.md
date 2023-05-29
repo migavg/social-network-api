@@ -3,7 +3,7 @@
 ## Description
 
 This particular week’s challenge was to build an Social Media API using Express.js and Mongoose packages. The overall purpose of the api is to add user and their thoughts into a database for further json uses. 
-The api is suppose to get, post, put, and delete data, that being thought and users.
+The api is suppose to get, post, put, and delete data,data being the thoughts and users.
 
 
 https://github.com/migavg/social-network-api/assets/119754846/fcdbedc5-6aad-45a8-a515-affda0b9905d
